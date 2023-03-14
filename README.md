@@ -1,5 +1,5 @@
 # insights_vendas_imoveis
-O objetivo deste projeto é ajudar a empresa encontrar as melhores oportunidades de negócio no mercado de imóveis, visando maximizar seus lucros
+O objetivo deste projeto (AINDA EM ANDAMENTO) é ajudar a empresa encontrar as melhores oportunidades de negócio no mercado de imóveis, visando maximizar seus lucros
 
 A principal estratégia é comprar boas casas em ótimas localizações com preços baixos e depois revendê-las posteriormente à preços mais altos. Quanto maior a diferença entre a compra e a venda, maior o lucro da empresa e portanto maior sua receita.
 
@@ -10,3 +10,11 @@ Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrati
 1.	Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
 2.	Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
 3.	É possível criar um modelo para determinar o valor do imóvel a ser comprado ou vendido com base nas features dadas?
+
+
+
+Link para o código no google colab:
+
+https://colab.research.google.com/drive/1UhBuudCS7fvnb5IUFOa4TLcMv-JuPMGe#scrollTo=ZbjijtDN9mkt
+
+Ainda estou na fase de análise exploratória, mas logo pretendo partir para aplicação do modelo pra ajudar a facilitar as buscas e determinar o preço dos imóveis
