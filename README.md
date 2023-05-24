@@ -19,17 +19,18 @@ https://colab.research.google.com/drive/1UhBuudCS7fvnb5IUFOa4TLcMv-JuPMGe#scroll
 
 
 
-**CONCLUSÃO
+**CONCLUSÃO**
 
-**INSIGHTS OBTIDOS:
+**INSIGHTS OBTIDOS:**
 
-*1. Condições das casas: • A maioria das casas está em condições razoáveis e boas, enquanto há poucas casas em condições ruins e excelentes.
+*1. Condições das casas:* • A maioria das casas está em condições razoáveis e boas, enquanto há poucas casas em condições ruins e excelentes.
 
-*2. Grades das casas: • A maioria das casas possui uma classificação de grade média (7), com uma queda acentuada na quantidade de casas à medida que a classificação aumenta. Isso indica que a maioria das casas está em condições médias de construção e design, e há pouquíssimas casas com uma alta qualidade de construção e design.
+*2. Grades das casas:* • A maioria das casas possui uma classificação de grade média (7), com uma queda acentuada na quantidade de casas à medida que a classificação aumenta. Isso indica que a maioria das casas está em condições médias de construção e design, e há pouquíssimas casas com uma alta qualidade de construção e design.
 
-*2. Renovação: • A maioria das casas não passou por renovação (yr_renovated), mas as que foram renovadas tendem a ter um valor de venda mais alto.
+*2. Renovação:* A maioria das casas não passou por renovação (yr_renovated), mas as que foram renovadas tendem a ter um valor de venda mais alto.
 
-*3. Variação dos preços ao longo dos anos: • Os preços das casas mostram uma variação significativa entre as décadas de 1900 e 1961. A partir de 1961, os preços começam a aumentar, indicando uma valorização dos imóveis ao longo do tempo. Casas construídas em décadas mais recentes tendem a ter preços mais altos, indicando que o mercado está valorizando imóveis mais novos.
+*3. Variação dos preços ao longo dos anos: 
+• Os preços das casas mostram uma variação significativa entre as décadas de 1900 e 1961. A partir de 1961, os preços começam a aumentar, indicando uma valorização dos imóveis ao longo do tempo. Casas construídas em décadas mais recentes tendem a ter preços mais altos, indicando que o mercado está valorizando imóveis mais novos.
 
 *4. Faixa de preço: A maioria dos imóveis vendidos se encontram na faixa de 250.000 a 500.000 dólares.
 
