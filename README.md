@@ -56,9 +56,10 @@ Características como o número de quartos, banheiros e espaço interior (sqft_l
 Embora a análise tenha indicado uma correlação baixa entre a localização (devido à incompatibilidade do tipo de dado com o cálculo de correlação), é amplamente reconhecido que a localização desempenha um papel fundamental na determinação dos preços imobiliários, pois diversos fatores, como proximidade de serviços, infraestrutura, comodidades, segurança e atrativos naturais, influenciam a demanda e, consequentemente, o valor das propriedades. É possível identificar isso no mapa geográfico que foi mostrado na análise. As áreas mais centrais possuem preços mais altos, quando comparadas às mais periféricas.
 
 *8. Pouca correlação com o preço:*
+
 A condição da casa (condition), beira-mar (waterfront), número de andares (floors) e a vista do imóvel (view) não possuem uma influência significativa no preço de venda. Casas com boas condições e vistas privilegiadas não apresentam um aumento expressivo no valor.
 
-**RESPONDENDO ÀS PERGUNTAS DE NEGÓCIO
+**RESPONDENDO ÀS PERGUNTAS DE NEGÓCIO**
 
 **Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?**
 
