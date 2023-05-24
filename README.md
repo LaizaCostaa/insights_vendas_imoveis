@@ -55,19 +55,19 @@ Características como o número de quartos, banheiros e espaço interior (sqft_l
 *   Localização:*
 Embora a análise tenha indicado uma correlação baixa entre a localização (devido à incompatibilidade do tipo de dado com o cálculo de correlação), é amplamente reconhecido que a localização desempenha um papel fundamental na determinação dos preços imobiliários, pois diversos fatores, como proximidade de serviços, infraestrutura, comodidades, segurança e atrativos naturais, influenciam a demanda e, consequentemente, o valor das propriedades. É possível identificar isso no mapa geográfico que foi mostrado na análise. As áreas mais centrais possuem preços mais altos, quando comparadas às mais periféricas.
 
-* 8. Pouca correlação com o preço:*
+*8. Pouca correlação com o preço:*
 A condição da casa (condition), beira-mar (waterfront), número de andares (floors) e a vista do imóvel (view) não possuem uma influência significativa no preço de venda. Casas com boas condições e vistas privilegiadas não apresentam um aumento expressivo no valor.
 
 **RESPONDENDO ÀS PERGUNTAS DE NEGÓCIO
 
-**Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
+**Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?**
 
 De acordo com os dados, caso a empresa deseje investir na compra e venda de imóveis com preços mais altos, o ideal é investir nos que possuem melhor localização, maior área e melhor qualidade da construção e design.
 
-**Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
+**Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?**
 
 O melhor momento para comprar é entre novembro e janeiro, e o melhor momento para vender é entre fevereiro e maio.
 
-**A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças?
+**A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças?**
 
 A decisão de fazer uma reforma deve ser baseada em uma análise cuidadosa dos custos em relação ao aumento esperado no preço. Sugestões de mudanças incluem melhorias na qualidade da construção e design, como atualização de acabamentos, renovação de banheiros e cozinha, e expansão da área interna, caso seja viável financeirament
